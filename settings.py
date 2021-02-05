@@ -23,7 +23,7 @@ DEFAULTS = {
         'date_format': 'mm/dd/yyyy',
         'use_24_hour_clock': False,
         'use_ssl': False,
-        'auth_backend': '',
+        'auth_backend': 'auth_basic',
         'websocket_port': '9999'
     },
     'viewer': {
